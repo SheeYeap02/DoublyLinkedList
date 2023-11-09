@@ -1,0 +1,28 @@
+sk101/English/Language Skill
+sk102/Malay/Language Skill
+sk103/Mandarin/Language Skill
+sk104/Cantonese/Language Skill
+sk105/Tamil/Language Skill
+sk106/Japanese/Language Skill
+sk107/Korean/Language Skill
+sk108/Mircrosoft Word/Computer Skill
+sk109/Mircrosoft Excel/Computer Skill
+sk110/Microsoft PowerPoint/Computer Skill
+sk111/Nero Video/Computer Skill
+sk112/Animaker/Computer Skill
+sk113/Adobe Photoshop/Computer Skill
+sk114/Canva/Computer Skill
+sk115/Adobe InDesign/Computer Skill
+sk116/CorelDRAW/Computer Skill
+sk117/Java Language/Computer Skill
+sk118/C++ Language/Computer Skill
+sk119/C# Language/Computer Skill
+sk120/JS Language/Computer Skill
+sk121/Php Language/Computer Skill
+sk122/SQL/Computer Skill
+sk123/Analytical-thinking/Personality
+sk124/Problem-solving/Personality
+sk125/Teamwork/Personality
+sk126/Learnability/Personality
+sk127/Adaptibility/Personality
+sk128/Time Management/Personality

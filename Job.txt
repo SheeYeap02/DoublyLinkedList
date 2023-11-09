@@ -1,0 +1,15 @@
+J1001/Javascript Developer/Monday-Friday/10.00AM-06.30PM/800/1000/Diploma&Degree/No/Computing-Based/C1001
+J1002/Business Management/Monday-Friday/09.00AM-06.00PM/500/1000/Diploma&Degree/Computer/E-Commerce/C1002
+J1003/E-Commerce Engineer/Monday-Friday/09.00AM-06.00PM/800/1000/Degree/Computer/E-Commerce/C1003
+J1004/Software Developer/Monday-Friday/09.00AM-06.00PM/600/1000/Diploma/No/Computing-Based/C1004
+J1005/Web Developer/Monday-Friday/09.30AM-06.30PM/500/800/Diploma&Degree/Laptop/Computing-Based/C1005
+J1006/Finance Trainee/Monday-Friday/08.30AM-05.30PM/500/800/Diploma&Degree/No/E-Commerce/C1006
+J1007/Mass Communication/Monday-Friday/10.00AM-07.00PM/800/1000/Diploma/No/E-Commerce/C1007
+J1008/UI&UX Designer/Monday-Friday/09.00AM-06.30PM/1000/1000/Degree/Laptop/Graphic Design/C1008
+J1009/Multimedia Creator/Monday-Friday/09.00AM-06.00PM/400/500/Expres/No/Graphic Design/C1009
+J1010/Digital Marketer/Monday-Friday/09.00AM-05.30PM/500/1000/Diploma&Degree/Computer/Computing-Based/C1010
+J1011/Information Technology/Monday-Friday/09.00AM-06.00PM/800/800/Diploma&Degree/No/Computing-Based/C1011
+J1012/Software Tester/Monday-Friday/09.00AM-06.00PM/800/800/Degree/No/Computing-Based/C1012
+J1013/Administrator/Monday-Friday/09.00AM-06.00PM/1000/1000/Diploma&Degree/Desktop/E-Commerce/C1013
+J1014/UI&UX Designer/Monday-Friday/09.00AM-06.00PM/700/800/Degree/No/Graphic Design/C1014
+J1015/Software Engineer/Monday-Friday/09.00AM-06.00PM/1000/1000/Degree/Laptop/Computing-Based/C1015

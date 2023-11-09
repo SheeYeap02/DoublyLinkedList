@@ -1,0 +1,15 @@
+C1001/Equals Ventures Sdn Bhd/Computing-Based/hr@howuku.com/Kuala Lumpur
+C1002/Prosains Sdn Bhd/E-Commerce/prosains.edu@gmail.com/Kuala Lumpur
+C1003/Osuki Commerce Sdn Bhd/E-Commerce/osuki@gmail.com/Puchong
+C1004/Origin Integrated Studios/Computing-Based/originStudio@gmail.com/Selangor
+C1005/Stelix Media Solutions/Computing-Based/hr@stelix.com/Petaling Jaya
+C1006/Plenitude Berhad/E-Commerce/plent@gmail.com/Kuala Lumpur
+C1007/MMG Advance Sdn Bhd/E-Commerce/mmgAdv@gmail.com/Petaling Jaya
+C1008/Sweetmag Solutions Sdn Bhd/Graphic Design/sweet@gmail.com/Petaling Jaya
+C1009/Express Train Sdn Bhd/Graphic Design/xpress@gmail.com/Johor
+C1010/Linexcom Sdn Bhd/E-Commerce/hr@linexcom.com/Petaling Jaya
+C1011/Fortesys Sdn Bhd/Computing-Based/fortesys@gmail.com/Puchong
+C1012/Easai Sdn Bhd/Computing-Based/hr@byparts.com/Kuala Lumpur
+C1013/Orpheus Capital Sdn Bhd/E-Commerce/hr@orpheus.com/Kuala Lumpur
+C1014/Wise AI Sdn Bhd/Graphic Design/jane@wiseai.tech/Selangor
+C1015/Felix Digital Sdn Bhd/Computing-Based/hr@felDigi.com/Kuala Lumpur
